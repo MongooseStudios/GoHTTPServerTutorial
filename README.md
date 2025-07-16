@@ -10,6 +10,8 @@ Patreon: https://patreon.com/MongooseStudios
 
 Or by sharing this tutorial with your friends!
 
+With thanks to https://github.com/MariaLetta/free-gophers-pack for the great Gopher art
+
 ## A Word of Warning
 The code provided here is intended to be a way for you to figure out where you went wrong if necessary.
 
